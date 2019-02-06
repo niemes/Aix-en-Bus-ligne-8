@@ -12,12 +12,14 @@ NODEJS
 Télécharger le repos en archive zip ou cloner ce repos.
 installer les dépendances :
 
+```
 cd /chemin/du/repos/
 npm install -g
+```
 
 ## Utilisation
 
-tapez : bus
+tapez : ```bus```
 
 dans un terminal.
 
