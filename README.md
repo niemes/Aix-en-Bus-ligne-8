@@ -4,8 +4,8 @@ Permet d'avoir les horaires en temps réel de cette ligne de bus.
 
 ## Dépendances :
 
-- NPM
-- NODEJS
+NPM
+NODEJS
 
 ## Installation
 

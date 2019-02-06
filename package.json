@@ -1,0 +1,30 @@
+{
+  "name": "bus-residence",
+  "version": "1.0.1",
+  "description": "prochain bus ligne 8",
+  "bin": {
+    "bus": "./bin/cli"
+  },
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bus",
+    "aix",
+    "averroes"
+  ],
+  "author": "niemes",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "chalk": "^2.4.0",
+    "cheerio": "^1.0.0-rc.2",
+    "cli-table2": "^0.2.0",
+    "colors": "^1.2.1",
+    "moment": "^2.22.1",
+    "ora": "^2.0.0",
+    "phantom": "^4.0.12",
+    "phantomjs-prebuilt": "^2.1.16"
+  }
+}
